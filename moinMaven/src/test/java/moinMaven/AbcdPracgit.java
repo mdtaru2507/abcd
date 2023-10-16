@@ -6,5 +6,11 @@ public class AbcdPracgit {
 		
 		System.out.println("manhamahdi");
 	}
+	
+public void git2() {
+		
+		System.out.println("manhamahdi");
+	}
+
 
 }
